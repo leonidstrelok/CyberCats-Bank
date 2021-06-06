@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>CyberCats_Bank.EventBus</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MassTransit.AspNetCore" Version="7.0.7" />
+        <PackageReference Include="MassTransit.RabbitMQ" Version="7.0.7" />
+        <PackageReference Include="MassTransit.MongoDb" Version="7.0.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ActivityLogger.EventBus\ActivityLogger.EventBus.csproj" />
+    </ItemGroup>
+
+
+</Project>

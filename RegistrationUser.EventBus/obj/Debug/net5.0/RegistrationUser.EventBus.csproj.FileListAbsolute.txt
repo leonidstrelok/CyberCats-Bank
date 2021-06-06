@@ -1,0 +1,12 @@
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\bin\Debug\net5.0\RegistrationUser.EventBus.deps.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\bin\Debug\net5.0\RegistrationUser.EventBus.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\bin\Debug\net5.0\ref\RegistrationUser.EventBus.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\bin\Debug\net5.0\RegistrationUser.EventBus.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.csproj.AssemblyReference.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.AssemblyInfoInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.AssemblyInfo.cs
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.csproj.CoreCompileInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\ref\RegistrationUser.EventBus.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.EventBus\obj\Debug\net5.0\RegistrationUser.EventBus.pdb

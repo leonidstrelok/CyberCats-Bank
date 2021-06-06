@@ -1,0 +1,12 @@
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\bin\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.deps.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\bin\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\bin\Debug\net5.0\ref\CyberCats-Bank.EventBus.Contracts.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\bin\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.csproj.AssemblyReference.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.AssemblyInfoInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.AssemblyInfo.cs
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\ref\CyberCats-Bank.EventBus.Contracts.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus.Contracts\obj\Debug\net5.0\CyberCats-Bank.EventBus.Contracts.pdb

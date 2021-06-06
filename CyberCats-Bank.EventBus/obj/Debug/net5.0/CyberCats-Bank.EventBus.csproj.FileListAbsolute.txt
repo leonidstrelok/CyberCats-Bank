@@ -1,0 +1,5 @@
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus\obj\Debug\net5.0\CyberCats-Bank.EventBus.csproj.AssemblyReference.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus\obj\Debug\net5.0\CyberCats-Bank.EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus\obj\Debug\net5.0\CyberCats-Bank.EventBus.AssemblyInfoInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus\obj\Debug\net5.0\CyberCats-Bank.EventBus.AssemblyInfo.cs
+C:\Users\leoni\RiderProjects\CyberCats-Bank\CyberCats-Bank.EventBus\obj\Debug\net5.0\CyberCats-Bank.EventBus.csproj.CoreCompileInputs.cache

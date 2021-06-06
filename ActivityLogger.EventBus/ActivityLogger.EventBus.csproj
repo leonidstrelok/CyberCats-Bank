@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MassTransit" Version="7.2.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ActivityLogger.Persistence\ActivityLogger.Persistence.csproj" />
+      <ProjectReference Include="..\CyberCats-Bank.EventBus.Contracts\CyberCats-Bank.EventBus.Contracts.csproj" />
+    </ItemGroup>
+
+
+</Project>

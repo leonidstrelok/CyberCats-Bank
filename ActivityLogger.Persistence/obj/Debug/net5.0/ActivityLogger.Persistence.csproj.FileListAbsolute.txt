@@ -1,0 +1,15 @@
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ActivityLogger.Persistence.deps.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ActivityLogger.Persistence.runtimeconfig.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ActivityLogger.Persistence.runtimeconfig.dev.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ActivityLogger.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ref\ActivityLogger.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\bin\Debug\net5.0\ActivityLogger.Persistence.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.csproj.AssemblyReference.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.AssemblyInfoInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.AssemblyInfo.cs
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ref\ActivityLogger.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\ActivityLogger.Persistence\obj\Debug\net5.0\ActivityLogger.Persistence.genruntimeconfig.cache

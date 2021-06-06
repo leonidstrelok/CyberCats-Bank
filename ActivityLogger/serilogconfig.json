@@ -1,0 +1,41 @@
+{
+  "Serilog": {
+    "Using": [
+      "Serilog.Sinks.Console",
+      "Serilog.Sinks.Seq"
+    ],
+    "MinimumLevel": {
+      "Default": "Information",
+      "Override": {
+        "Microsoft": "Warning",
+        "System": "Warning"
+      }
+    },
+    "Enrich": [
+      "FromLogContext",
+      "WithMachineName"
+    ],
+    "WriteTo": [
+      {
+        "Name": "Console"
+      },
+      {
+        "Name": "Async",
+        "Args": {
+          "configure": [
+            {
+              "Name": "Seq",
+              "Args": {
+                "serverUrl": "http://localhost:5341",
+                "apiKey": "12345"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "Properties": {
+      "Application": "CyberCats-Bank"
+    }
+  }
+}

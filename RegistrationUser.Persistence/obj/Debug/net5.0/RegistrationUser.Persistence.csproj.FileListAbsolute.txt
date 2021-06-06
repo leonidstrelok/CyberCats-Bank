@@ -1,0 +1,15 @@
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\RegistrationUser.Persistence.deps.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\RegistrationUser.Persistence.runtimeconfig.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\RegistrationUser.Persistence.runtimeconfig.dev.json
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\RegistrationUser.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\ref\RegistrationUser.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\bin\Debug\net5.0\RegistrationUser.Persistence.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.csproj.AssemblyReference.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.AssemblyInfoInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.AssemblyInfo.cs
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\ref\RegistrationUser.Persistence.dll
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.pdb
+C:\Users\leoni\RiderProjects\CyberCats-Bank\RegistrationUser.Persistence\obj\Debug\net5.0\RegistrationUser.Persistence.genruntimeconfig.cache
